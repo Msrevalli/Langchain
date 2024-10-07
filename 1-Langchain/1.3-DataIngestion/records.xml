@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <id>1</id>
+        <name>John Doe</name>
+        <email>johndoe@example.com</email>
+        <phone>123-456-7890</phone>
+        <address>
+            <street>123 Main St</street>
+            <city>Springfield</city>
+            <state>IL</state>
+            <zip>62701</zip>
+        </address>
+    </record>
+    <record>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <email>janesmith@example.com</email>
+        <phone>987-654-3210</phone>
+        <address>
+            <street>456 Elm St</street>
+            <city>Somewhere</city>
+            <state>CA</state>
+            <zip>90210</zip>
+        </address>
+    </record>
+    <record>
+        <id>3</id>
+        <name>Mike Johnson</name>
+        <email>mikejohnson@example.com</email>
+        <phone>555-123-4567</phone>
+        <address>
+            <street>789 Oak St</street>
+            <city>Metropolis</city>
+            <state>NY</state>
+            <zip>10001</zip>
+        </address>
+    </record>
+</records>
