@@ -23,7 +23,7 @@ prompt = ChatPromptTemplate.from_messages(
 st.title("Langchain Demo with Gemma")
 input_text = st.text_input("What question you have in mind?")
 
-llm = Ollama(model="llama3.1cl")
+llm = Ollama(model="llama3.1")
 output_parser = StrOutputParser()
 chain = prompt|llm|output_parser
 
